@@ -1,0 +1,11 @@
+{
+  "name": "husky-test",
+  "version": "1.0.0",
+  "description": "Testing git hooks automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Klas Mellbourn <klas@mellbourn.net>",
+  "license": "ISC"
+}
