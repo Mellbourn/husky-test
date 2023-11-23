@@ -9,7 +9,7 @@
     "prepare": "husky install"
   },
   "author": "Klas Mellbourn <klas@mellbourn.net>",
-  "license": "ISC",,
+  "license": "ISC",
   "devDependencies": {
     "husky": "^8.0.3"
   }
