@@ -4,7 +4,8 @@
   "description": "Testing git hooks automation",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo 'test'",
+    "lint": "echo 'lint'"
   },
   "author": "Klas Mellbourn <klas@mellbourn.net>",
   "license": "ISC",
