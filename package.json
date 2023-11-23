@@ -5,13 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'test'",
-    "lint": "echo 'lint'"
-  },
-  "author": "Klas Mellbourn <klas@mellbourn.net>",
-  "license": "ISC",
-  "script": {
+    "lint": "echo 'lint'",
     "prepare": "husky install"
   },
+  "author": "Klas Mellbourn <klas@mellbourn.net>",
+  "license": "ISC",,
   "devDependencies": {
     "husky": "^8.0.3"
   }
